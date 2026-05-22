@@ -1,0 +1,26 @@
+# Vercel ignore file
+
+# Data files (already in public/)
+iit_rankings*.csv
+iit_rankings*.json
+
+# Python scripts
+*.py
+__pycache__
+
+# Shell scripts
+*.sh
+*.bat
+
+# Git
+.git
+
+# IDE
+.vscode
+.idea
+*.swp
+
+# Environment
+.env
+.env.local
+.env.*.local
